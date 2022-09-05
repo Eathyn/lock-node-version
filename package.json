@@ -1,0 +1,15 @@
+{
+  "name": "lock_node_version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.x || 13.x"
+  },
+  "engineStrict": true,
+  "author": "",
+  "license": "ISC"
+}
